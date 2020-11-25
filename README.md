@@ -4,6 +4,11 @@ Live Programming Round: Software Engineer Role
 Note: Test Submission instructions will be updated here at 4pm - check back here
 
 
+<h3>Updated FAQ:</h3>
+1. Am I supposed to upload just the client or server code? <br> 
+<i>Ans: Commit all your code into your repository(this includes both client and server) along with the instructions.</i>
+
+
 <h3>Test Instructions & prerequisites:</h3>
 
 1. Be familiar with git and it’s commands.
@@ -48,7 +53,7 @@ Modular, scalable code.
 Well structured code and folder structure.
 Handling exceptions and edge cases gracefully. 
 
-Tables: https://docs.google.com/spreadsheets/d/1UdcmcUPb-62olm6LGgG1d_8o0eLcaDAwPQc_vbx_ohY/edit?usp=sharing
+<h3>Tables:</h3> https://docs.google.com/spreadsheets/d/1UdcmcUPb-62olm6LGgG1d_8o0eLcaDAwPQc_vbx_ohY/edit?usp=sharing
 
 
 Probability Formula:
